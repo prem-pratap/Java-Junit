@@ -33,3 +33,6 @@ ii) Create a Junit test class to test the above class.
 
 
 Mini project
+
+1.Using JUnit test the mini project created in OOPS/Inheritance i.e. Inventory management system
+2.Using jUnit test the mini project created in Abstraction/Packages/Exception Handling module number 3 i.e. Interest calculator
